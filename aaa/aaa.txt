@@ -1,9 +1,5 @@
 
 
 
-<<<<<<< HEAD
-我是本地新建的分支new_branch
-=======
 
-我是主分支
->>>>>>> remotes/origin/main
+我是本地新建的分支
